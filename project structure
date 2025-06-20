@@ -1,0 +1,9 @@
+Main.java               # Entry point of the application
+|- User (abstract)      # Base class for Student and Admin
+|- Student              # Handles student operations
+|- Admin                # Handles admin operations
+|- Subject              # Contains questions for exam
+|- Question             # Represents a single MCQ
+|- Course               # Contains subjects
+|- ExamResult           # Stores results of a student's exam
+|- StudentManagementSystem  # Core logic and menu system
